@@ -6,8 +6,7 @@ import HERO_IMAGE from "../assets/hero.png.png";/**
  * Fundo: Imagem do Pantoja com identidade azul/amarelo
  */
 export default function HeroSection() {
-  const whatsappLink = 'https://wa.me/5567984040301?text=Olá, vim pela página e quero saber como funciona para ser cambista da MRBET.';
-
+  const whatsappLink = 'https://wa.me/5521990246809?text=Olá, vim pela página e quero saber como funciona para ser cambista da MRBET.';
   return (
     <section 
       className="relative w-full min-h-screen overflow-hidden"
